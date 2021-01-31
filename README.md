@@ -1,4 +1,1 @@
-noob
-====
-
-Fooling around. Exploring things.
+Contains the codebase for solutions of popular problems from different providers. Check the README of each question for more.
