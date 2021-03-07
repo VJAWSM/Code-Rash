@@ -1,3 +1,5 @@
+//Trick - comparing two strings will happen automatically in MSD radix sort. No need to implement the sort yourself.
+
 public class Solution {
     // DO NOT MODIFY THE LIST. IT IS READ ONLY
     public String largestNumber(final List<Integer> A) {
